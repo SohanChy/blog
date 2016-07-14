@@ -2,53 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.sohanchy.com/</loc>
-    <lastmod>2016-04-11T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2016-07-14T20:35:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.sohanchy.com/bangla/experience-hackathon-2016/</loc>
+    <loc>/bangla/what-is-reddit/</loc>
+    <lastmod>2016-07-14T20:35:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/bangla/experience-hackathon-2016/</loc>
     <lastmod>2016-04-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.sohanchy.com/journal/Why-I-have-a-Javascript-allergy-and-hate-its-damned-popularity/</loc>
+    <loc>/journal/Why-I-have-a-Javascript-allergy-and-hate-its-damned-popularity/</loc>
     <lastmod>2016-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.sohanchy.com/bangla/2016-02-27-programming-and-google-foo/</loc>
+    <loc>/bangla/2016-02-27-programming-and-google-foo/</loc>
     <lastmod>2016-02-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.sohanchy.com/guides-tuts/how-to-setup-sfml-232-with-codeblocks/</loc>
+    <loc>/guides-tuts/how-to-setup-sfml-232-with-codeblocks/</loc>
     <lastmod>2016-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.sohanchy.com/projects/SPV-A-port-of-C-plus-plus-STL-vectors-for-C/</loc>
+    <loc>/projects/SPV-A-port-of-C-plus-plus-STL-vectors-for-C/</loc>
     <lastmod>2016-01-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.sohanchy.com/code/how-to-write-a-program-to-check-prime-numbers-in-c/</loc>
+    <loc>/code/how-to-write-a-program-to-check-prime-numbers-in-c/</loc>
     <lastmod>2015-07-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.sohanchy.com/code/print-upside-down-star-pyramid-in-c/</loc>
+    <loc>/code/print-upside-down-star-pyramid-in-c/</loc>
     <lastmod>2015-06-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.sohanchy.com/journal/prologue/</loc>
+    <loc>/journal/prologue/</loc>
     <lastmod>2015-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.sohanchy.com/code/program-to-convert-numbers-to-binary-in-c/</loc>
+    <loc>/code/program-to-convert-numbers-to-binary-in-c/</loc>
     <lastmod>2015-06-22T00:00:00+00:00</lastmod>
   </url>
   

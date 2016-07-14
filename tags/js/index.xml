@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Js on Sohan&#39;s Blog</title>
-    <link>http://blog.sohanchy.com/tags/js/</link>
+    <link>/tags/js/</link>
     <description>Recent content in Js on Sohan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sohan Chowdhury, all rights reserved.</copyright>
     <lastBuildDate>Thu, 10 Mar 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.sohanchy.com/tags/js/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/js/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why I have a Javascript allergy and hate its popularity so much.</title>
-      <link>http://blog.sohanchy.com/journal/Why-I-have-a-Javascript-allergy-and-hate-its-damned-popularity/</link>
+      <link>/journal/Why-I-have-a-Javascript-allergy-and-hate-its-damned-popularity/</link>
       <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.sohanchy.com/journal/Why-I-have-a-Javascript-allergy-and-hate-its-damned-popularity/</guid>
+      <guid>/journal/Why-I-have-a-Javascript-allergy-and-hate-its-damned-popularity/</guid>
       <description>&lt;p&gt;This is 2016, and if you aren&amp;rsquo;t aboard the Javascript bullet train,  you aren&amp;rsquo;t doing it right.&lt;br /&gt;
 I am writing this mostly as a rant, and this isn&amp;rsquo;t written for JS Ninjas, its for people like me who are coming to JS from C++, Java,etc and feeling very confused and lost.&lt;/p&gt;
 

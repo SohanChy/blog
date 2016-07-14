@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gists on Sohan&#39;s Blog</title>
-    <link>http://blog.sohanchy.com/tags/gists/</link>
+    <link>/tags/gists/</link>
     <description>Recent content in Gists on Sohan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sohan Chowdhury, all rights reserved.</copyright>
     <lastBuildDate>Fri, 22 Jan 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.sohanchy.com/tags/gists/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/gists/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SPV - A port of C&#43;&#43; STL vectors for C</title>
-      <link>http://blog.sohanchy.com/projects/SPV-A-port-of-C-plus-plus-STL-vectors-for-C/</link>
+      <link>/projects/SPV-A-port-of-C-plus-plus-STL-vectors-for-C/</link>
       <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.sohanchy.com/projects/SPV-A-port-of-C-plus-plus-STL-vectors-for-C/</guid>
+      <guid>/projects/SPV-A-port-of-C-plus-plus-STL-vectors-for-C/</guid>
       <description>&lt;p&gt;I tried to port the vector container from C++ STL to C.
 Its just a header file called spv.h and almost all features of C++ vectors can now be used in C just by including it.
 SPV arrays support resize, insert, remove, push_back, push_front, pop_back, pop_front, sort , swap, etc.&lt;/p&gt;
@@ -26,10 +26,10 @@ SPV arrays support resize, insert, remove, push_back, push_front, pop_back, pop_
     
     <item>
       <title>How to write a simple program to check prime numbers in C</title>
-      <link>http://blog.sohanchy.com/code/how-to-write-a-program-to-check-prime-numbers-in-c/</link>
+      <link>/code/how-to-write-a-program-to-check-prime-numbers-in-c/</link>
       <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.sohanchy.com/code/how-to-write-a-program-to-check-prime-numbers-in-c/</guid>
+      <guid>/code/how-to-write-a-program-to-check-prime-numbers-in-c/</guid>
       <description>&lt;p&gt;I find Prime finding &amp;amp; prime checking interesting because it introduces the concept of translating mathematical logic to programming logic.
 While writing this you also learn by hand how to do little tweaks and improvements to make a program better. After seeing this program, anyone who wishes to learn more should write a program to print all prime numbers from 1-n by adapting the logic used in this program in a loop.
 Here&amp;rsquo;s my simple approach to writing a program to find prime numbers in C.&lt;/p&gt;
@@ -88,10 +88,10 @@ int temp=binary,reverse=0,y;
     
     <item>
       <title>How to printf a upside down star pyramid in C</title>
-      <link>http://blog.sohanchy.com/code/print-upside-down-star-pyramid-in-c/</link>
+      <link>/code/print-upside-down-star-pyramid-in-c/</link>
       <pubDate>Sun, 28 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.sohanchy.com/code/print-upside-down-star-pyramid-in-c/</guid>
+      <guid>/code/print-upside-down-star-pyramid-in-c/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s my approach to this beginner problem.
 Nested loops are used to format the pyramids print structure. This problem is basically taught to get students used to basic &lt;strong&gt;nested loops&lt;/strong&gt;.&lt;/p&gt;
 
@@ -137,10 +137,10 @@ int main()
     
     <item>
       <title>How to write a program Convert Numbers to Binary in C</title>
-      <link>http://blog.sohanchy.com/code/program-to-convert-numbers-to-binary-in-c/</link>
+      <link>/code/program-to-convert-numbers-to-binary-in-c/</link>
       <pubDate>Mon, 22 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.sohanchy.com/code/program-to-convert-numbers-to-binary-in-c/</guid>
+      <guid>/code/program-to-convert-numbers-to-binary-in-c/</guid>
       <description>&lt;p&gt;Here is my very basic my approach to this problem.
 This program converts numbers to binary in C using simple basic C concepts. I guess this problem is supposed to teach how to &lt;strong&gt;work around&lt;/strong&gt; a limitation/quirk when programming, and basically encourages to think a bit differently.&lt;/p&gt;
 

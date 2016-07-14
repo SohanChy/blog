@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>অভিজ্ঞতা on Sohan&#39;s Blog</title>
-    <link>http://blog.sohanchy.com/tags/%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%A4%E0%A6%BE/</link>
+    <link>/tags/%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%A4%E0%A6%BE/</link>
     <description>Recent content in অভিজ্ঞতা on Sohan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sohan Chowdhury, all rights reserved.</copyright>
     <lastBuildDate>Mon, 11 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.sohanchy.com/tags/%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%A4%E0%A6%BE/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%9C%E0%A7%8D%E0%A6%9E%E0%A6%A4%E0%A6%BE/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>ন্যাশনাল হ্যাকাথন ২০১৬- নুবদের সেকেন্ড রানার্সআপ হবার অভিজ্ঞতা</title>
-      <link>http://blog.sohanchy.com/bangla/experience-hackathon-2016/</link>
+      <link>/bangla/experience-hackathon-2016/</link>
       <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.sohanchy.com/bangla/experience-hackathon-2016/</guid>
+      <guid>/bangla/experience-hackathon-2016/</guid>
       <description>&lt;p&gt;আইসিটি মন্ত্রনালয় এর আয়োজিত ন্যাশনাল হ্যাকাথন ২০১৬ ছিলো আমার এটেন্ড করা প্রথম হ্যাকাথন।
 এর আগেই কখনো হ্যাকাথনে যাওয়া হয়নি,
 আমরা মাত্র ফার্স্ট ইয়ারের থার্ড সেমেস্টারে।
@@ -35,7 +35,7 @@
 &lt;p&gt;আমি লিডার হবার প্রেশার নিতে চাইনি একদমই
 কিন্তু এরপরেও টিমের লিডার নির্বাচন করা হয় আমাকে।&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://blog.sohanchy.com/images/bangla-posts/hackathon2016/hackathon-id.jpg&#34; alt=&#34;ID&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/bangla-posts/hackathon2016/hackathon-id.jpg&#34; alt=&#34;ID&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;রেজিস্ট্রেশানে আমরা বেছে নিয়েছিলাম &amp;ldquo;সাস্টেইনেবল টুরিজম&amp;rdquo; প্রবলেম সেটটি। তো আমরা হ্যাকাথনের আগেই এদিক সেদিক বিভিন্ন আইডিয়া নিয়ে ভাবতে থাকি।&lt;/p&gt;
 
@@ -85,7 +85,7 @@
 গুগল ডিজাইন স্প্রিন্ট এর
 Understand, Diverge, Converge করা হলো।&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://blog.sohanchy.com/images/bangla-posts/hackathon2016/hackathon-ids.jpg&#34; alt=&#34;storyboard&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/bangla-posts/hackathon2016/hackathon-ids.jpg&#34; alt=&#34;storyboard&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;নতুন একটা আইডিয়া দাড়িয়ে গেল।
 এরপর মূল আইডিয়াটা বড় সাদা কাগজে ড্র + আউটলাইন করে দেখাতে হবে,
@@ -117,7 +117,7 @@ Understand, Diverge, Converge করা হলো।&lt;/p&gt;
 &lt;p&gt;সবার মোবাইলে ডাটা নেয়া হলো, ডাটা কেবল দিয়ে কানেক্ট করে টেথার করা হলো,
 এবং হ্যাকাথনে বসে কনফিউজড আমরা শেখা শুরু করলাম আয়োনিক ফ্রেমওয়ার্ক।&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://blog.sohanchy.com/images/bangla-posts/hackathon2016/ionic.jpg&#34; alt=&#34;frustration code&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/bangla-posts/hackathon2016/ionic.jpg&#34; alt=&#34;frustration code&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;দুইজন লিনাক্সে বাকিরা উইন্ডোজে, কারো কর্ডোভা আয়োনিক আছে তো জাভা এসডীকে নাই।
 কারো জাভা এসডীকে আছে তো এনপিএমই নাই।
@@ -143,7 +143,7 @@ Understand, Diverge, Converge করা হলো।&lt;/p&gt;
 নতুন ফ্রেমওয়ার্ক প্রস্তাব করি আমাদের জাভাস্ক্রিপ্ট প্রেমী টিমমেট আবরারের নামে,
 আবরার ডট জেএস।&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://blog.sohanchy.com/images/bangla-posts/hackathon2016/sleepy.jpg&#34; alt=&#34;sleepy abrar.js&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/bangla-posts/hackathon2016/sleepy.jpg&#34; alt=&#34;sleepy abrar.js&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;যাই হোক, আমরা ভেবেছিলাম বিকাল ৩-৪টা পর্যন্ত টাইম দেয়া হবে,
 কিন্তু সকালে হটাত বলা হয় যে ১০টা থেকেই জাজরা আশা শুরু করবেন।
@@ -184,7 +184,7 @@ Understand, Diverge, Converge করা হলো।&lt;/p&gt;
 ছবি তুললাম। সবার সাথে উদযাপন করলাম।
 এরপর ফটোসেশন হলো, হাত উপরে তুলে , ভি দেখিয়ে ছবি তোলা হলো।&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://blog.sohanchy.com/images/bangla-posts/hackathon2016/hacka2.jpg&#34; alt=&#34;us&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/images/bangla-posts/hackathon2016/hacka2.jpg&#34; alt=&#34;us&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;একটা ফর্ম ইমেল করা হবে বলে আমাদেরকে বিদায় দেয়া হলো
 (ফর্মটি এখনো পাই নি, ফোন করলে বলা হয় পরে মেইল দেয়া হবে)।

@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tuts on Sohan&#39;s Blog</title>
-    <link>http://blog.sohanchy.com/tags/tuts/</link>
+    <link>/tags/tuts/</link>
     <description>Recent content in Tuts on Sohan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sohan Chowdhury, all rights reserved.</copyright>
     <lastBuildDate>Sat, 27 Feb 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://blog.sohanchy.com/tags/tuts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/tuts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>প্রোগ্রামিং শিখা, এবং গুগল সার্চ এর জাদুবিদ্যা</title>
-      <link>http://blog.sohanchy.com/bangla/2016-02-27-programming-and-google-foo/</link>
+      <link>/bangla/2016-02-27-programming-and-google-foo/</link>
       <pubDate>Sat, 27 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://blog.sohanchy.com/bangla/2016-02-27-programming-and-google-foo/</guid>
+      <guid>/bangla/2016-02-27-programming-and-google-foo/</guid>
       <description>&lt;p&gt;আমি নিজে এখনো নুব প্রোগ্রামার দেখেই সম্ভবত প্রায় সময় অনেককে পাই,
 যারা ভাল প্রোগ্রামিং শিখতে চায়, কিন্তু &amp;ldquo;পারছে না&amp;rdquo;। তাদের নানান সমস্যা, প্রশ্ন।&lt;/p&gt;
 
