@@ -20,7 +20,7 @@
 
 &lt;p&gt;This post is for beginners who want use the Simple Fast Media Library(SFML) for C++ in the popular IDE CodeBlocks. It is a simple step by step guide with screenshots that covers from downloading, creating a project, setting it up with SFML and then linking the DLLs to running your first SFML code.&lt;/p&gt;
 
-&lt;h2 id=&#34;downloading:7fed918ca7c4cf4cd322c46c5af333c5&#34;&gt;Downloading:&lt;/h2&gt;
+&lt;h2 id=&#34;downloading&#34;&gt;Downloading:&lt;/h2&gt;
 
 &lt;p&gt;First head over to &lt;a href=&#34;http://www.sfml-dev.org/download.php&#34;&gt;http://www.sfml-dev.org/download.php&lt;/a&gt; and download the
 latest stable version of SFML. As I am writing this, the latest stable
@@ -35,7 +35,7 @@ other archive manager of your choice. Inside the extracted folder you
 will find a folder named &lt;strong&gt;SFML-2.3.2.&lt;/strong&gt;
 This is our library. So remember this folder, we will be needing it.&lt;/p&gt;
 
-&lt;h2 id=&#34;setup-the-codeblocks-project:7fed918ca7c4cf4cd322c46c5af333c5&#34;&gt;Setup the Codeblocks project:&lt;/h2&gt;
+&lt;h2 id=&#34;setup-the-codeblocks-project&#34;&gt;Setup the Codeblocks project:&lt;/h2&gt;
 
 &lt;p&gt;Now open Codeblocks and go to
 &lt;strong&gt;Create a new project &amp;gt; Console Application &amp;gt; C++&lt;/strong&gt;&lt;/p&gt;
@@ -144,7 +144,7 @@ network and so on.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&#34;/images/guides-tuts/how-to-setup-sfml-232-with-codeblocks/image13.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&#34;linking-the-dlls-important:7fed918ca7c4cf4cd322c46c5af333c5&#34;&gt;Linking the DLLS (Important!)&lt;/h2&gt;
+&lt;h2 id=&#34;linking-the-dlls-important&#34;&gt;Linking the DLLS (Important!)&lt;/h2&gt;
 
 &lt;p&gt;Now comes the tricky part.
 This is the part most people seem to miss and get frustrated. We need to
