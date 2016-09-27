@@ -5,7 +5,10 @@ if [ ! -d "public" ]; then
     exit;
 fi
 
-echo "commit and push master first?"
+cp BAK_CNAME public/CNAME
+mv public ../.tmp-public
+
+echo "commit and push master first? All changes will be lost"
 select yn in "Yes" "No"; do
     case $yn in
         Yes ) git add .; git commit;
@@ -15,7 +18,6 @@ select yn in "Yes" "No"; do
     esac
 done
 
-mv public ../.tmp-public
 git checkout -f gh-pages
 rm -rf ./* 
 mv ../.tmp-public/* ./
