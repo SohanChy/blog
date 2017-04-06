@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cs on Sohan&#39;s Blog</title>
+    <link>/tags/cs/index.xml</link>
+    <description>Recent content in Cs on Sohan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Sohan Chowdhury, all rights reserved.</copyright>
+    <atom:link href="/tags/cs/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>কম্পিউটার সায়েন্সের সহজ এবং কঠিন</title>
+      <link>/bangla/the-easy-and-the-not-so-easy-in-computer-science/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/bangla/the-easy-and-the-not-so-easy-in-computer-science/</guid>
+      <description>&lt;p&gt;ষাট এর দশকে মার্ভিন মিনস্কি কিছু আন্ডারগ্রেজুয়েট ছাত্রদের একটা প্রজেক্ট করতে দিয়েছিলেন, 
+&amp;ldquo;একটা কম্পিউটারকে এমনভাবে প্রোগ্রাম করতে হবে যেন প্রোগ্রামটা ক্যামেরা দিয়ে তোলা কোন একটা ছবি দেয়া হলে সেই ছবির বস্তুগুলোকে চিহ্নিত করতে পারে।&amp;rdquo; 
+তিনি ভেবেছিলেন গ্রীষ্মের ছুটির মধ্যেই তারা এই সমস্যার সমাধান করে ফেলতে পারবে।  অর্ধ শতাব্দী পার হয়ে গেছে, কম্পিউটার সায়েন্সের বাঘা বাঘা বিজ্ঞানীরা এখনো এই সমস্যার সমাধানের চেষ্টায় কাজ করে যাচ্ছেন। 
+&lt;img src=&#34;https://imgs.xkcd.com/comics/tasks.png&#34; alt=&#34;theres a xkcd for everything&#34; /&gt;
+কম্পিউটার সায়েন্সে কোন সমস্যাটা সহজ আর কোন সমস্যাটা কঠিন এটার কোন সহজ উত্তর নেই। 
+ডেভেলপমেন্ট করতে গিয়ে প্রায় সময়ই একটা ব্যাপারটা ফেস করি যে, একজন কম্পিউটার সায়েন্স ব্যাকগ্রাউন্ডের মানুষ আর একজন সাধারণ মানুষের প্রযুক্তিগত বিষয়ের ধ্যান ধারনায় অনেক বড় একটা গ্যাপ আছে। এমন একটা non obvious গ্যাপ যেটা বাইরে থেকে বোঝা যায়না, বোঝা যায় তাদের সাথে কাজ করতে গিয়ে। &lt;/p&gt;
+
+&lt;p&gt;সাধারণ মানুষের কাছে অনেক কাজই হয়তো খুবই জটিল মনে হয়,  কিন্তু হয়তো সেটা প্রোগ্রামিং এ সমাধান করা খুবই সহজ। 
+আবার একজন সাধারণ মানুষ যে কাজটাকে খুবই সহজ মনে করে, সেই &amp;ldquo;সহজ&amp;rdquo; কাজটাই প্রোগ্রামিং এ সমাধান করা হতে পারে অনেক কঠিন, সময় সাপেক্ষ এবং কখনো কখনো অনিশ্চিত, একটা ব্যাপার। &lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;প্রযুক্তির সহজলভ্যটায় এখন কিছু জিনিষ মানুষের কাছে এতই &amp;ldquo;trivial&amp;rdquo; হয়ে গেছে যে,  মুখে &amp;ldquo;Okay google, say in german, thank you for helping me&amp;rdquo; বলার সাথে সাথে স্মার্টফোনের জার্মান ভাষায় &amp;ldquo;Danke, dass du mir geholfen hast&amp;rdquo; বলে উঠা আর ফেসবুকে তার ফ্রেন্ডের ছবি অটোমেটিকালি ট্যাগ হয়ে যাওয়া,  এই ধরনের অনেক ব্লিডীং এজ প্রযুক্তি এখন অনেকের কাছেই হয়ে গেছে খুবই &amp;ldquo;সাধারণ&amp;rdquo;।  &lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

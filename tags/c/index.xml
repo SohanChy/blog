@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C on Sohan&#39;s Blog</title>
-    <link>/tags/c/</link>
+    <link>/tags/c/index.xml</link>
     <description>Recent content in C on Sohan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sohan Chowdhury, all rights reserved.</copyright>
-    <lastBuildDate>Sat, 13 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/c/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
