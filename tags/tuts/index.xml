@@ -2,11 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tuts on Sohan&#39;s Blog</title>
-    <link>/tags/tuts/index.xml</link>
+    <link>/tags/tuts/</link>
     <description>Recent content in Tuts on Sohan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sohan Chowdhury, all rights reserved.</copyright>
+    <lastBuildDate>Sat, 27 Feb 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/tuts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

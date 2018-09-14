@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Sohan&#39;s Blog</title>
-    <link>/projects/index.xml</link>
+    <link>/projects/</link>
     <description>Recent content in Projects on Sohan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
