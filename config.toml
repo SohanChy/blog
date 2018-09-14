@@ -1,11 +1,11 @@
-canonifyurls = true
+canonifyurls = "true"
 copyright = "&copy; 2016 Sohan Chowdhury, all rights reserved."
 SectionPagesMenu = "main"
 Title = "Sohan's Blog"
-paginate = 10
+paginate = "10"
 LanguageCode = "en-us"
 disqusShortname = "sohansblog"
-pluralizeListTitles = false
+pluralizeListTitles = "false"
 theme = "sohan-light-cards"
 BaseURL = "/"
 
@@ -16,10 +16,10 @@ tags = "tags"
 SyntaxHighlightTheme = "default.min.css"
 Github = "http://github.com/SohanChy"
 Disqus = "sohansblog"
-ShowTagCloud = true
+ShowTagCloud = "true"
 Author = "Sohan Chowdhury"
 Twitter = "http://twitter.com/iamsohan"
 Birth = "Mon, Jul 8, 1996"
 Facebook = "http://facebook.com/sifat3d"
-ShowRelatedPost = true
+ShowRelatedPost = "true"
 GoogleAnalyticsUserID = "UA-73459303-1"
