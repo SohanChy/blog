@@ -7,8 +7,68 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Sohan Chowdhury, all rights reserved.</copyright>
-    <lastBuildDate>Fri, 14 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0000</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>ভাইয়া আমি অমুক সেমিস্টারে পড়ি, আমার কি শেখা উচিত?</title>
+      <link>/bangla/what-should-i-learn-bhai/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/bangla/what-should-i-learn-bhai/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;ভাইয়া আমি অমুক সেমিস্টারে পড়ি, আমার কি শেখা উচিত?&amp;rdquo;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;এরকম কিছু প্রশ্ন আমি পাই মাঝে মাঝে। তাছাড়া AIUB রিলেটেড বেশ কিছু ফেসবুক গ্রুপের পোস্টের কমেন্ট পড়ে মনে হলো এই পোষ্ট টা লিখি। &lt;/p&gt;
+
+&lt;p&gt;ফার্স্ট সেমেস্টার থেকে ৯-১০ সেমেস্টার পর্যন্ত CS/CSE/CSSE/SE তে পড়া এবং সফটওয়্যার ইঞ্জিনিয়ারিং এ আসার ইচ্ছা এমন AIUBian দের জন্য এই পোস্টটা লেখা, কিন্তু প্রায় সব কম্পিউটার সায়েন্স ব্যাকগ্রাউন্ডের ছাত্রদের ক্ষেত্রেই এটা প্রযোজ্য। আমার তথ্যে এবং মতামতে ভুল থাকতে পারে, সবই ব্যাক্তিগতভাবে যতটুকু বুঝা শেখা তা থেকে লেখা।&lt;/p&gt;
+
+&lt;p&gt;আমি ধরে নিচ্ছি যে চার বছর Bsc শেষ করে আপনার ইচ্ছা ফিল্ডে ঢোকার,
+সেক্ষেত্রে কিছু জিনিষ যা আমি নিজে অবসার্ভ করে মনে হয়েছে তা বলিঃ&lt;/p&gt;
+
+&lt;p&gt;দেশে হোক দেশের বাইরে হোক সফটওয়্যার ইঞ্জিনিয়ারিং এ সবচাইতে গুরুত্বপূর্ন স্কিল হল &lt;strong&gt;প্রবলেম সলভিং। &lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;আমি নিজে প্রবলেম সলভিং খুবি কম করসিলাম ভার্সিটি লাইফে, শুরু করে ভালো শুরু পেয়েও কনটিনিউ করি নাই, সেটার জন্য এখনও আমি রিগ্রেট ফিল করি।&lt;/p&gt;
+
+&lt;p&gt;ফার্স্ট ইয়ার, সেকেন্ড ইয়ার এবংকি থার্ড ইয়ার পর্যন্ত আমার মনে হয় আর কিছু না দেখে জাস্ট চোখ বুঝে ACM কমিউনিটি/গ্রুপ এর লোকজনের সাথে মিলে মিশে প্রবলেম সল্ভিং শেখা এবং প্র্যাকটিস করা উচিত।&lt;/p&gt;
+
+&lt;p&gt;ডেভেলপমেন্টের লোভে যত কম পড়া যায় তত ভাল। বেসিক ক্লিয়ার থাকলে একজন মানুষ ছয় মাসেই ডেভেলপমেন্ট বেশ ভাল মত আয়ত্বে নিয়ে আসতে পারে,
+যেখানে কয়েক বছর লেগে থাকা ছাড়া প্রব্লেম সলভিং এ ভালো হবার উপায় নাই।
+তাই প্রথম টার্গেট হওয়া উচিত এটা, কমিউনিটি ভাল লাগেন? একা একা হ্যাকার র‍্যাংক আছে UVA আছে, যেখানে ভাল লাগে প্র্যাকটিস করুন।&lt;/p&gt;
+
+&lt;p&gt;ভাল প্রবলেম সলভাররা বের হবার আগেই অনেকে দেশের বাইরে চাকরি পান নামকরা সব সফটওয়্যার কোম্পানি তে।
+যেমন গুগল, আমাজন, গ্রাব, উবার ইত্যাদি।
+মোটামুটি মানের রা ডাক পান দেশের ভালো ভালো কোম্পানিগুলোতে।
+আর একদম বিগিনার লেভেলের প্রবলেম সলভারদেরও হালকা ডেভেলপমেন্ট শিখে নিলেই কাজ হয়ে যায়।&lt;/p&gt;
+
+&lt;p&gt;অন্তত দুই বছর চেষ্টা করার পরেও যদি আপনার মনে হয় আপনার এই প্রবলেম সল্ভিং ব্যাপারটা ভালো লাগেনা,
+তাইলে এবার আপনি ডেভেলপমেন্ট এ আসতে পারেন। কিন্তু অবশ্যই বেসিক ক্লিয়ার করে,
+বেসিক এলগরিদম আর ডাটা স্ট্রাকচার যাতে আপনার জানা থাকে।
+বর্তমানে আমার দেখায় পাঁচটা প্রাইমারি ডেভ স্ট্রিম আছে দেশেঃ&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;NodeJS - Express - React/Angular&lt;/li&gt;
+&lt;li&gt;Php - Laravel - React/Vue&lt;/li&gt;
+&lt;li&gt;Python - Django - Angular/React&lt;/li&gt;
+&lt;li&gt;ASP.NET - MVC - Angular&lt;/li&gt;
+&lt;li&gt;App Development - Android(Java/ Kotlin) / IOS (ObjC / Swift)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;এইগুলার যেকোন একটা পিক করুন, নিজেকে সেটার সাথে যতটুক সম্ভব পরিচিত করে তুলুন,
+কয়েকটা প্রজেক্ট করুন, অমুক তমুক ম্যানেজমেন্ট না বানিয়ে কোন একটা সিম্পল কিন্তু প্রচলিত আইডিয়া কে কপি করে বা নিজের ফ্রেশ আইডিয়া থেকে প্রজেক্ট বানান। যতটুকুই করবেন যাতে ফিনিশিং টাচ তাতে থাকে, বিরাট বড় সিস্টেম কিন্তু গভীরতা নাই, এর চেয়ে ছোট একটা সিস্টেম কিন্ত গভীরতা আছে, ফাইনাল টাচ দিবেন, এতে শিখবেন অনেক বেশী। কাজে যতটা সম্ভব প্রফেশনালিজম এর ছাপ রাখেন, একটা কিছু বানানর সময় মাথায় রাকবেন এইটা কি &amp;ldquo;খ্যাত&amp;rdquo; দেখাচ্ছে নাকি প্রফেশনাল? আমি নিজে কি এইরকম একটা সার্ভিস ইউজ করতাম নাকি নাক শিটকানি দিতাম?&lt;/p&gt;
+
+&lt;p&gt;নিজের ক্রিটিসিজম নিজে করলেই দেখবেন ইম্প্রুভ হচ্ছে।
+প্রোগ্রামিং বেসিক ক্লিয়ার করার পর এই রকম যেকোন একটা স্ট্রিম নিয়ে অন্তত ছয় মাস যদি সত্যি সত্যি ইফর্ট দেন,
+আপনার পাশ করার পর চাকরি ইন্টার্ভিউতে গেলেই দেখতে পাবেন আপনি কতটা এগিয়ে আছেন।
+কিন্তু ফ্রেশারদের ইন্টার্ভিউতে খুব বেসিক হলেও প্রবলেম সলভিং এবিলিটি পরীক্ষা করা হয়।
+এটা মাথায় রাখবেন। ভাল কোম্পানি ডেভেলপার এর চাইতে প্রবলেম সলভার চায় বেশী,
+ডেভেলপমেন্ট শিখিয়ে নেয়া যায়, প্রব্লেম সলভিং না।
+বাংলাদেশের Software Engineer/Developer হায়ার করে এমন কোম্পানির ধরন নিয়ে যতটুকু বুঝেছি সেটা আরেকদিন লিখবো।
+আজ হটাত মনে হলো যে এই ব্যাপারগুলা জানা থাকলে ছোটভাই কারো হেল্প হতে পারে তাই এই পোস্ট লিখলাম।
+কোন ভুল / প্রশ্ন থাকলে কমেন্ট সেকশন খোলা আছে।&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>সোলেমানের দিনগুলি ১ - রবিবার</title>
@@ -1019,68 +1079,6 @@ Its just a header file called spv.h and almost all features of C++ vectors can n
 SPV arrays support resize, insert, remove, push_back, push_front, pop_back, pop_front, sort , swap, etc.&lt;/p&gt;
 
 &lt;p&gt;For more information visit the project page at &lt;a href=&#34;http://sohanchy.github.io/SPV-for-C/&#34;&gt;http://sohanchy.github.io/SPV-for-C/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>How to write a simple program to check prime numbers in C</title>
-      <link>/code/how-to-write-a-program-to-check-prime-numbers-in-c/</link>
-      <pubDate>Sun, 26 Jul 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/code/how-to-write-a-program-to-check-prime-numbers-in-c/</guid>
-      <description>&lt;p&gt;I find Prime finding &amp;amp; prime checking interesting because it introduces the concept of translating mathematical logic to programming logic.
-While writing this you also learn by hand how to do little tweaks and improvements to make a program better. After seeing this program, anyone who wishes to learn more should write a program to print all prime numbers from 1-n by adapting the logic used in this program in a loop.
-Here&amp;rsquo;s my simple approach to writing a program to find prime numbers in C.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;#include&amp;lt;stdio.h&amp;gt;
-
-int main(void) {
-    int input,binary=0,x;
-
-//Take and see if input is a positive number
-    do {
-        printf(&amp;quot;Please enter POSITIVE a number:&amp;quot;);
-        scanf(&amp;quot;%d&amp;quot;,&amp;amp;input);}
-    while(input&amp;lt;0);
-
-    x=input;
-
-//Convert to binary
-//Using 0 causes problems, so using 9 instead of 0
-    while(x!=0)
-    {
-        binary=binary*10;
-        if(x%2==1){
-        binary=binary+1;
-        }
-        if(x%2==0){
-        binary=binary+9;
-        }
-
-        x=x/2;
-    }
-
-//Its in binary but its reversed
-//The 0s are in 0 we need to fix that as well
-//reverse and replace here
-int temp=binary,reverse=0,y;
-    while(temp!=0)
-    {
-        y=temp%10;
-        if(y==9){y=0;}
-        reverse=(reverse*10)+y;
-        temp=temp/10;
-    }
-
-
-//Print the result
-    printf(&amp;quot;\n\t\t\t%d&amp;quot;,reverse);
-
-    return 0;
-}
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;The gist can be found at &lt;a href=&#34;https://gist.github.com/SohanChy/bff3490f203b91c5284e&#34;&gt;https://gist.github.com/SohanChy/bff3490f203b91c5284e&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

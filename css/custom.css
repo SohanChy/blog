@@ -144,3 +144,8 @@ aside.site .section, aside.site .section header, aside.site .section header .tit
 article.single .article-body pre code {
   background-color: inherit;
 }
+
+.imageNotCustomized {
+    height: 2rem !important;
+    background-color: #ecf0f1 !important;
+}
