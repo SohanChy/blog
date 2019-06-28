@@ -3,7 +3,8 @@ date = "2017-02-21"
 description = "হয়তো আমি মাতৃভাষা দিবস নিয়ে ফেসবুকে স্ট্যাটাস দেইনি, হয়তো আমি এতই অলস যে ছুটির দিনে ভোরবেলা খালি পায়ে গিয়ে ফুল দেইনা, এর মানে এই না যে মাতৃভাষা বাংলার প্রতি, শহীদদের প্রতি, দিনের অর্থটার প্রতি আমার কোন শ্রদ্ধা নেই। "
 title = "অলস আমি এবং আমার দেশপ্রেমের আপাত অভাব নিয়ে কিছু কথা"
 lastmod = "2017-02-21"
-tags = ["\"self\"", "\"ramblings\"", "\"motivation\""]
+tags = ["self", "ramblings", "motivation"]
+image = "covers/relax-panda.jpg"
 +++
  
 > এই পোস্টের "সংক্ষেপ" পড়তে [ক্লিক করুন এখানে](http://songkhep.herokuapp.com/url-songkhep.php?url=http://blog.sohanchy.com/bangla/me-and-my-apparent-lack-of-patriotism/&sent_lim=7&damp=0.1)।

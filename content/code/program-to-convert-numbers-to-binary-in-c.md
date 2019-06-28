@@ -8,7 +8,7 @@ description = "This program converts numbers to binary in C using simple basic C
 lastmod = "2015-06-22"
 date = "2015-06-22"
 
-#image = "bg-9-full.jpg"
+image = "covers/numbers.jpg"
 
 #slug = "prologue"
 #series = [ "SomeSeries" ]

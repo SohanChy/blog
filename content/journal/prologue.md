@@ -8,7 +8,7 @@ description = "I started poking around HTML since I was in 7th grade..."
 lastmod = "2015-08-03"
 date = "2015-06-23"
 
-#image = "bg-9-full.jpg"
+image = "covers/relax-panda.jpg"
 
 #slug = "prologue"
 #series = [ "SomeSeries" ]

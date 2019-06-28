@@ -8,7 +8,8 @@ description = "Here's my simple approach to writing a program to find prime numb
 lastmod = "2015-07-26"
 date = "2015-07-26"
 
-#image = "bg-9-full.jpg"
+image = "covers/numbers.jpg"
+
 
 #slug = "prologue"
 #series = [ "SomeSeries" ]
