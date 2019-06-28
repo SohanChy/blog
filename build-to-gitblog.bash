@@ -23,13 +23,13 @@ rm -rf ./*
 mv ../.tmp-public/* ./
 rmdir ../.tmp-public
 
-git add .
-git commit
+
+
 
 echo "Wanna push?"
 select yn in "Yes" "No"; do
     case $yn in
-        Yes ) git push; git checkout master; break;;
+        Yes ) git add .; git commit; git push; git checkout master; break;;
         No ) exit;;
     esac
 done
